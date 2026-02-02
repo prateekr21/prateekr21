@@ -1,0 +1,11 @@
+2026-02-02 21:56:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hpx\Desktop\AutomationJenkins\OpencartV121-master\master.xml
+
+2026-02-02 21:57:14 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-02-02 21:57:15 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-02-02 21:57:15 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-02-02 21:57:15 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-02-02 21:57:16 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2026-02-02 21:57:16 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2026-02-02 21:57:16 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2026-02-02 21:57:18 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
